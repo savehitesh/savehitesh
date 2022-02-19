@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T12:26:25.878Z" agent="5.0 (Windows)" etag="kPu2sn2ktgtsUl0LwWlR" version="16.6.1" type="github"><diagram id="9xE2A8WU-C6B4LDKORGd" name="Page-1">7VbJbtswEP0aH2tos2Mf4yXuwW2DpkVzpaWxxIbSGNTIlvr1HUrUhixtLkUPpgFDfLPPPBKc+Ou03GlxSj5hBGriOVE58TcTz1vMF/xvgKoBghsLxFpGDeT2wIP8BRZ0LFrICPKRIiEqkqcxGGKWQUgjTGiNl7HaEdU46knE8Ax4CIV6jv6QESW2LO+mxz+CjJM2sjtfNpJUtMq2kjwREV4GkL+d+GuNSM1XWq5Bmd61fWns7l6RdolpyOhvDLYLEWyXpV/ln7/c3S6+J49w/OA3Xs5CFbZgmyxVbQcg4obYLWpKMMZMqG2PrjQWWQQmjMO7XmePeGLQZfAnEFV2uqIgZCihVFlpE9MEerU2C+VY6BDeKMjtOsuMBEyBdMV2GpQgeR77F5YbcafXmd6j5MieY2kceLPGpGWxv5jOnX65wdgjCR0DWSf9TPhjkFUP1ZN6x9TcP08tJ41PsEaFugb8eb3GfT+DJslc34sDqHvMJUnMWHZAIkxZQRnBSoRPcT3jgbtjvQY+bpWMjS2Zma+wICUzjt+eSsOM7gSYTSTypOMMS04m8bSMzS0y1RxyBxlooaZ8skmwLw68Okql6iQ8m0VgfiwYKNWVhaiUOOXyUPfDhAgTqaK9qDgzRkwABoVSeNmJ+i4xZinPTWZ7OBod3++Qr/aELzvkW01trzda2Z5tDIlWBCW91PysSDcyN6YiDyGLOvKbNkL5Nv2f09oazJ0RO93A7i/9jdVdqMnwtnJa9KWjMGLteykaXCl6peiAor73/3F0duXolaMDjs4W/5KjvO0ff83LoH9B+9vf</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-19T12:37:00.797Z" agent="5.0 (Windows)" etag="iCw6z4t6KCw5pQ7hBUEN" version="16.6.1" type="github">
+  <diagram id="9xE2A8WU-C6B4LDKORGd" name="Page-1">
+    <mxGraphModel dx="599" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E8a4E9x3ysNOFA8UhXef-1" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.container;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=ascend;" parent="1" vertex="1">
+          <mxGeometry x="60" y="260" width="210" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="JSynGW7EDIlefoWcvoa--13" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="E8a4E9x3ysNOFA8UhXef-1">
+          <mxGeometry x="33" y="620" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSynGW7EDIlefoWcvoa--7" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="E8a4E9x3ysNOFA8UhXef-1">
+          <mxGeometry x="33" y="640" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSynGW7EDIlefoWcvoa--14" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="E8a4E9x3ysNOFA8UhXef-1">
+          <mxGeometry x="33" y="660" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSynGW7EDIlefoWcvoa--8" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="E8a4E9x3ysNOFA8UhXef-1">
+          <mxGeometry x="33" y="680" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSynGW7EDIlefoWcvoa--15" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="E8a4E9x3ysNOFA8UhXef-1">
+          <mxGeometry x="33" y="700" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSynGW7EDIlefoWcvoa--6" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="E8a4E9x3ysNOFA8UhXef-1">
+          <mxGeometry x="33" y="720" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSynGW7EDIlefoWcvoa--5" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="E8a4E9x3ysNOFA8UhXef-1">
+          <mxGeometry x="33" y="740" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSynGW7EDIlefoWcvoa--4" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="E8a4E9x3ysNOFA8UhXef-1">
+          <mxGeometry x="33" y="780" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSynGW7EDIlefoWcvoa--9" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="E8a4E9x3ysNOFA8UhXef-1">
+          <mxGeometry x="33" y="820" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSynGW7EDIlefoWcvoa--10" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="E8a4E9x3ysNOFA8UhXef-1">
+          <mxGeometry x="33" y="760" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSynGW7EDIlefoWcvoa--11" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="E8a4E9x3ysNOFA8UhXef-1">
+          <mxGeometry x="33" y="800" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSynGW7EDIlefoWcvoa--12" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="E8a4E9x3ysNOFA8UhXef-1">
+          <mxGeometry x="33" y="840" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E8a4E9x3ysNOFA8UhXef-4" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.container;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=ascend;" parent="1" vertex="1">
+          <mxGeometry x="320" y="260" width="210" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="E8a4E9x3ysNOFA8UhXef-5" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.container;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=ascend;" parent="1" vertex="1">
+          <mxGeometry x="580" y="250" width="210" height="900" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
