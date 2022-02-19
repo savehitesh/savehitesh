@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T12:37:00.797Z" agent="5.0 (Windows)" etag="iCw6z4t6KCw5pQ7hBUEN" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T12:43:48.003Z" agent="5.0 (Windows)" etag="WlOXHbThNujRTb89SPWa" version="16.6.1" type="github">
   <diagram id="9xE2A8WU-C6B4LDKORGd" name="Page-1">
-    <mxGraphModel dx="599" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="JSynGW7EDIlefoWcvoa--12" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" vertex="1" parent="E8a4E9x3ysNOFA8UhXef-1">
           <mxGeometry x="33" y="840" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JSynGW7EDIlefoWcvoa--16" value="" style="shape=mxgraph.rack.cisco.cisco_3925_integrated_services_router;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;points=[];direction=east;" vertex="1" parent="E8a4E9x3ysNOFA8UhXef-1">
+          <mxGeometry x="33" y="21" width="168" height="79" as="geometry" />
         </mxCell>
         <mxCell id="E8a4E9x3ysNOFA8UhXef-4" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.container;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=ascend;" parent="1" vertex="1">
           <mxGeometry x="320" y="260" width="210" height="890" as="geometry" />
